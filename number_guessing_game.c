@@ -35,24 +35,3 @@ int main()
 
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// notes
-// Initialize random number generator
-// Generate random number between 1 and 100
-// Print the random number
-    // printf("Random Number: %d\n", randomNumber);
